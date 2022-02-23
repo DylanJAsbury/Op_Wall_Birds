@@ -1,0 +1,41 @@
+Species,Year,Density,Lower CI,Upper CI
+Blackstart,2005,8.7432,6.6779,11.447
+Blackstart,2006,24.074,20.284,28.573
+Blackstart,2007,11.463,8.1911,16.042
+Blackstart,2008,4.7019,2.2342,9.8954
+Blackstart,2009,7.4247,5.6819,9.702
+Blackstart,2010,6.8127,5.5319,8.39
+Blackstart,2011,3.7495,2.2709,6.1908
+Blackstart,2012,10.068,5.1215,19.793
+Laughing Dove,2005,17.053,10.654,27.294
+Laughing Dove,2006,33.333,27.821,39.936
+Laughing Dove,2007,28.458,23.26,34.669
+Laughing Dove,2008,4.0469,0.75327,21.742
+Laughing Dove,2009,8.7517,6.936,11.043
+Laughing Dove,2010,8.5928,6.8021,10.855
+Laughing Dove,2011,0.085793,0.085793,0.85793
+Laughing Dove,2012,13.933,6.2587,31.018
+Rock Martin,2005,3.8834,0.70084,21.518
+Rock Martin,2006,48.23,41.704,55.778
+Rock Martin,2007,2.3466,1.4139,3.8938
+Rock Martin,2008,13.491,10.281,17.703
+Rock Martin,2009,5.6542,4.0676,7.86
+Rock Martin,2010,2.3747,1.4879,3.7902
+Rock Martin,2011,4.8899,2.7459,8.7078
+Rock Martin,2012,12.72,3.6174,44.727
+Scrub Warbler,2005,15.744,8.9315,27.752
+Scrub Warbler,2006,15.429,12.342,19.289
+Scrub Warbler,2007,3.7763,2.2939,6.2166
+Scrub Warbler,2008,33.897,26.141,43.955
+Scrub Warbler,2009,5.8623,4.4465,7.7288
+Scrub Warbler,2010,11.887,10.358,13.642
+Scrub Warbler,2011,18.21,15.511,21.378
+Scrub Warbler,2012,13.561,8.1862,22.465
+White-crowned Wheatear,2005,18.344,15.396,21.855
+White-crowned Wheatear,2006,40.557,35.619,46.179
+White-crowned Wheatear,2007,26.348,22.159,31.329
+White-crowned Wheatear,2008,17.434,13.775,22.064
+White-crowned Wheatear,2009,8.607,7.56,9.798
+White-crowned Wheatear,2010,20.806,18.201,23.785
+White-crowned Wheatear,2011,18.631,15.892,21.841
+White-crowned Wheatear,2012,21.693,13.616,34.561
